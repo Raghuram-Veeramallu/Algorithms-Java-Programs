@@ -2,7 +2,8 @@
 
 ## All the programs have a common main function in algorithms
 
-Please ensure you change the following in algorithms file before executing the program:
+These Java programs have been developed as a part of Design and Algorithms Course.
 
-1. Import the required java package.
+### NOTE: Please ensure you change the following in algorithms file before executing the program:  s
+1. Import the required java packages.
 2. Create an instance of the imported class and then execute the main from that instance.
